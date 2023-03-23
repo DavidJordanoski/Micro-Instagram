@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MCA Micro Instagram</string>
+    <string name="title_activity_insta_details">InstaDetailsActivity</string>
+</resources>
